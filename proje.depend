@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641670623 source:c:\users\abdullah bilgi\desktop\ders\algor›tma\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
